@@ -1,0 +1,27 @@
+
+A.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 2, 2
+  size: 237, 251
+  orig: 237, 251
+  offset: 0, 0
+  index: -1
+flare
+  rotate: false
+  xy: 241, 89
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+star1
+  rotate: true
+  xy: 241, 105
+  size: 148, 146
+  orig: 148, 146
+  offset: 0, 0
+  index: -1

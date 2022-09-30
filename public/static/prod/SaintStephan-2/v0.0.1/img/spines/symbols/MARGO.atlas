@@ -1,0 +1,174 @@
+
+MARGO.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FRAME_WILDNEW_av
+  rotate: false
+  xy: 2, 722
+  size: 290, 300
+  orig: 290, 300
+  offset: 0, 0
+  index: -1
+HL1_MAR_av
+  rotate: false
+  xy: 493, 513
+  size: 43, 112
+  orig: 43, 112
+  offset: 0, 0
+  index: -1
+HL2_MAR_av
+  rotate: false
+  xy: 270, 469
+  size: 87, 251
+  orig: 87, 251
+  offset: 0, 0
+  index: -1
+HL3_MAR_av
+  rotate: false
+  xy: 14, 193
+  size: 123, 259
+  orig: 123, 259
+  offset: 0, 0
+  index: -1
+HL4_MAR_av
+  rotate: false
+  xy: 359, 510
+  size: 132, 220
+  orig: 132, 220
+  offset: 0, 0
+  index: -1
+HL5_MAR_av
+  rotate: false
+  xy: 480, 799
+  size: 103, 223
+  orig: 105, 225
+  offset: 1, 1
+  index: -1
+HL6_MAR_av
+  rotate: true
+  xy: 488, 745
+  size: 52, 74
+  orig: 54, 76
+  offset: 1, 1
+  index: -1
+HL7_MAR_av
+  rotate: false
+  xy: 493, 627
+  size: 74, 116
+  orig: 76, 118
+  offset: 1, 1
+  index: -1
+HR1_MAR_av
+  rotate: true
+  xy: 244, 2
+  size: 192, 162
+  orig: 192, 162
+  offset: 0, 0
+  index: -1
+HR7_MAR_av
+  rotate: true
+  xy: 2, 2
+  size: 182, 240
+  orig: 182, 240
+  offset: 0, 0
+  index: -1
+HR_group1_av
+  rotate: false
+  xy: 139, 196
+  size: 191, 256
+  orig: 191, 256
+  offset: 0, 0
+  index: -1
+HR_group2_av
+  rotate: false
+  xy: 294, 792
+  size: 184, 230
+  orig: 184, 230
+  offset: 0, 0
+  index: -1
+STAR_main_av
+  rotate: false
+  xy: 452, 477
+  size: 21, 31
+  orig: 23, 33
+  offset: 1, 1
+  index: -1
+body_MAR_av
+  rotate: true
+  xy: 332, 218
+  size: 249, 169
+  orig: 249, 169
+  offset: 0, 0
+  index: -1
+eye_MAR_av
+  rotate: false
+  xy: 270, 454
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+eye_close1_MAR_av
+  rotate: true
+  xy: 399, 469
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+eye_close2_MAR_av
+  rotate: true
+  xy: 475, 479
+  size: 29, 23
+  orig: 29, 24
+  offset: 0, 1
+  index: -1
+eye_patch_MAR_av
+  rotate: true
+  xy: 426, 470
+  size: 38, 24
+  orig: 40, 26
+  offset: 1, 1
+  index: -1
+face_MAR_BG_av
+  rotate: false
+  xy: 2, 454
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+face_MAR_av
+  rotate: false
+  xy: 408, 18
+  size: 146, 198
+  orig: 146, 198
+  offset: 0, 0
+  index: -1
+frame_part1_av
+  rotate: true
+  xy: 359, 469
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+frame_part2_av
+  rotate: true
+  xy: 2, 186
+  size: 266, 10
+  orig: 266, 10
+  offset: 0, 0
+  index: -1
+sword_frameSCATT_av
+  rotate: false
+  xy: 503, 411
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+wildNEW_av
+  rotate: false
+  xy: 294, 732
+  size: 192, 58
+  orig: 192, 58
+  offset: 0, 0
+  index: -1

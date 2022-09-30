@@ -1,0 +1,125 @@
+
+GATE_WILD.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ENERGY1
+  rotate: false
+  xy: 893, 2
+  size: 78, 54
+  orig: 200, 200
+  offset: 69, 146
+  index: -1
+ENERGY10
+  rotate: false
+  xy: 893, 153
+  size: 94, 100
+  orig: 200, 200
+  offset: 67, 64
+  index: -1
+ENERGY11
+  rotate: false
+  xy: 893, 58
+  size: 91, 93
+  orig: 200, 200
+  offset: 68, 67
+  index: -1
+ENERGY12
+  rotate: false
+  xy: 989, 168
+  size: 79, 85
+  orig: 200, 200
+  offset: 79, 73
+  index: -1
+ENERGY2
+  rotate: false
+  xy: 986, 61
+  size: 81, 90
+  orig: 200, 200
+  offset: 86, 110
+  index: -1
+ENERGY3
+  rotate: false
+  xy: 811, 8
+  size: 80, 131
+  orig: 200, 200
+  offset: 91, 66
+  index: -1
+ENERGY4
+  rotate: false
+  xy: 495, 115
+  size: 98, 138
+  orig: 200, 200
+  offset: 72, 56
+  index: -1
+ENERGY5
+  rotate: true
+  xy: 544, 13
+  size: 100, 135
+  orig: 200, 200
+  offset: 67, 55
+  index: -1
+ENERGY6
+  rotate: false
+  xy: 595, 120
+  size: 98, 133
+  orig: 200, 200
+  offset: 66, 55
+  index: -1
+ENERGY7
+  rotate: true
+  xy: 681, 20
+  size: 98, 128
+  orig: 200, 200
+  offset: 65, 56
+  index: -1
+ENERGY8
+  rotate: false
+  xy: 695, 132
+  size: 98, 121
+  orig: 200, 200
+  offset: 64, 57
+  index: -1
+ENERGY9
+  rotate: false
+  xy: 795, 141
+  size: 96, 112
+  orig: 200, 200
+  offset: 66, 61
+  index: -1
+gate1_wild_av
+  rotate: true
+  xy: 394, 16
+  size: 80, 148
+  orig: 82, 150
+  offset: 1, 1
+  index: -1
+star_gate_wild_av
+  rotate: false
+  xy: 225, 65
+  size: 127, 188
+  orig: 129, 190
+  offset: 1, 1
+  index: -1
+stone_REF_wild_gate_av
+  rotate: false
+  xy: 354, 98
+  size: 139, 155
+  orig: 150, 167
+  offset: 5, 6
+  index: -1
+stone_wild_gate_av
+  rotate: false
+  xy: 2, 6
+  size: 221, 247
+  orig: 223, 249
+  offset: 1, 1
+  index: -1
+wild_gate_av
+  rotate: false
+  xy: 225, 15
+  size: 167, 48
+  orig: 169, 50
+  offset: 1, 1
+  index: -1

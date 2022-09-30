@@ -1,0 +1,55 @@
+
+SWORD.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame_part1_sword_av
+  rotate: false
+  xy: 2, 4
+  size: 18, 229
+  orig: 18, 229
+  offset: 0, 0
+  index: -1
+frame_part2_sword_av
+  rotate: true
+  xy: 233, 2
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+light_sword_av
+  rotate: true
+  xy: 270, 235
+  size: 266, 262
+  orig: 268, 264
+  offset: 1, 1
+  index: -1
+sword2_bg_av
+  rotate: false
+  xy: 233, 46
+  size: 266, 85
+  orig: 266, 85
+  offset: 0, 0
+  index: -1
+sword_bg_av
+  rotate: false
+  xy: 2, 235
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+sword_frameSCATT_av
+  rotate: false
+  xy: 233, 133
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sword_stone_av
+  rotate: false
+  xy: 22, 15
+  size: 209, 218
+  orig: 211, 220
+  offset: 1, 1
+  index: -1

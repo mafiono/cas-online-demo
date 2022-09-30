@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<font>
+  <info face="Unicorn" size="180" bold="0" italic="0" charset="" unicode="1" stretchH="100" smooth="1" aa="1" padding="3,7,14,3" spacing="2,2" outline="0"/>
+  <common lineHeight="180" base="149" scaleW="512" scaleH="512" pages="1" packed="0" alphaChnl="0" redChnl="0" greenChnl="0" blueChnl="0"/>
+  <pages>
+    <page id="0" file="@1x_unicorn_0.xml.png" />
+  </pages>
+  <chars count="12">
+    <char id="44" x="300" y="141" width="31" height="55" xoffset="-1" yoffset="113" xadvance="25" page="0" chnl="15" />
+    <char id="46" x="333" y="141" width="34" height="41" xoffset="-1" yoffset="112" xadvance="28" page="0" chnl="15" />
+    <char id="48" x="252" y="0" width="80" height="139" xoffset="2" yoffset="26" xadvance="80" page="0" chnl="15" />
+    <char id="49" x="237" y="141" width="61" height="135" xoffset="-3" yoffset="28" xadvance="57" page="0" chnl="15" />
+    <char id="50" x="0" y="141" width="79" height="137" xoffset="0" yoffset="26" xadvance="75" page="0" chnl="15" />
+    <char id="51" x="334" y="0" width="80" height="139" xoffset="1" yoffset="26" xadvance="79" page="0" chnl="15" />
+    <char id="52" x="81" y="141" width="84" height="135" xoffset="-3" yoffset="28" xadvance="74" page="0" chnl="15" />
+    <char id="53" x="416" y="0" width="82" height="137" xoffset="1" yoffset="28" xadvance="80" page="0" chnl="15" />
+    <char id="54" x="0" y="0" width="82" height="139" xoffset="2" yoffset="26" xadvance="81" page="0" chnl="15" />
+    <char id="55" x="167" y="141" width="68" height="135" xoffset="-3" yoffset="28" xadvance="58" page="0" chnl="15" />
+    <char id="56" x="84" y="0" width="82" height="139" xoffset="1" yoffset="26" xadvance="80" page="0" chnl="15" />
+    <char id="57" x="168" y="0" width="82" height="139" xoffset="2" yoffset="26" xadvance="81" page="0" chnl="15" />
+  </chars>
+  <kernings count="13">
+    <kerning first="55" second="55" amount="3" />
+    <kerning first="55" second="52" amount="-3" />
+    <kerning first="55" second="51" amount="2" />
+    <kerning first="55" second="49" amount="3" />
+    <kerning first="54" second="55" amount="-2" />
+    <kerning first="54" second="50" amount="-1" />
+    <kerning first="53" second="55" amount="-4" />
+    <kerning first="53" second="50" amount="-3" />
+    <kerning first="50" second="52" amount="-3" />
+    <kerning first="51" second="55" amount="-1" />
+    <kerning first="52" second="49" amount="-3" />
+    <kerning first="52" second="55" amount="-3" />
+    <kerning first="53" second="49" amount="-4" />
+  </kernings>
+</font>

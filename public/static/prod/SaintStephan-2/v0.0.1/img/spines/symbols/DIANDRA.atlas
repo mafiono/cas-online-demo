@@ -1,0 +1,202 @@
+
+DIANDRA.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FRAME_WILDNEW_av
+  rotate: false
+  xy: 2, 210
+  size: 290, 300
+  orig: 290, 300
+  offset: 0, 0
+  index: -1
+H11_av
+  rotate: false
+  xy: 1143, 365
+  size: 113, 145
+  orig: 113, 145
+  offset: 0, 0
+  index: -1
+H1_av
+  rotate: false
+  xy: 1023, 355
+  size: 118, 155
+  orig: 118, 155
+  offset: 0, 0
+  index: -1
+H2_av
+  rotate: true
+  xy: 906, 270
+  size: 47, 191
+  orig: 47, 191
+  offset: 0, 0
+  index: -1
+H3_av
+  rotate: true
+  xy: 2, 42
+  size: 166, 235
+  orig: 166, 235
+  offset: 0, 0
+  index: -1
+H4_av
+  rotate: false
+  xy: 562, 291
+  size: 148, 219
+  orig: 148, 219
+  offset: 0, 0
+  index: -1
+H5_av
+  rotate: false
+  xy: 877, 319
+  size: 144, 191
+  orig: 144, 191
+  offset: 0, 0
+  index: -1
+H6_av
+  rotate: true
+  xy: 844, 43
+  size: 112, 226
+  orig: 112, 226
+  offset: 0, 0
+  index: -1
+H7_av
+  rotate: true
+  xy: 1072, 72
+  size: 83, 223
+  orig: 83, 223
+  offset: 0, 0
+  index: -1
+H8_av
+  rotate: true
+  xy: 844, 157
+  size: 95, 270
+  orig: 95, 270
+  offset: 0, 0
+  index: -1
+H9_av
+  rotate: false
+  xy: 726, 19
+  size: 116, 233
+  orig: 116, 233
+  offset: 0, 0
+  index: -1
+RH3_av
+  rotate: true
+  xy: 1218, 171
+  size: 86, 71
+  orig: 86, 71
+  offset: 0, 0
+  index: -1
+STAR_main_av
+  rotate: true
+  xy: 93, 7
+  size: 21, 31
+  orig: 23, 33
+  offset: 1, 1
+  index: -1
+body_DI_BG_av
+  rotate: false
+  xy: 294, 244
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+body_DI_av
+  rotate: false
+  xy: 239, 44
+  size: 206, 164
+  orig: 208, 166
+  offset: 1, 1
+  index: -1
+eye_DI_av
+  rotate: false
+  xy: 155, 13
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+eye_clo1_DI_av
+  rotate: true
+  xy: 310, 3
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+eye_clo2_DI_av
+  rotate: false
+  xy: 126, 6
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+eye_patch_DI_av
+  rotate: false
+  xy: 172, 18
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+facePATCH_DI_av
+  rotate: false
+  xy: 1099, 259
+  size: 151, 94
+  orig: 151, 94
+  offset: 0, 0
+  index: -1
+face_DI_av
+  rotate: false
+  xy: 712, 314
+  size: 163, 196
+  orig: 163, 196
+  offset: 0, 0
+  index: -1
+finger1_av
+  rotate: false
+  xy: 46, 4
+  size: 45, 24
+  orig: 47, 26
+  offset: 1, 1
+  index: -1
+finger2_av
+  rotate: false
+  xy: 2, 2
+  size: 42, 26
+  orig: 44, 28
+  offset: 1, 1
+  index: -1
+frame_part1_av
+  rotate: true
+  xy: 270, 3
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+frame_part2_av
+  rotate: false
+  xy: 2, 30
+  size: 266, 10
+  orig: 266, 10
+  offset: 0, 0
+  index: -1
+mainH1_av
+  rotate: true
+  xy: 447, 23
+  size: 219, 277
+  orig: 219, 277
+  offset: 0, 0
+  index: -1
+sword_frameSCATT_av
+  rotate: false
+  xy: 1116, 157
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+wildNEW_av
+  rotate: false
+  xy: 712, 254
+  size: 192, 58
+  orig: 192, 58
+  offset: 0, 0
+  index: -1

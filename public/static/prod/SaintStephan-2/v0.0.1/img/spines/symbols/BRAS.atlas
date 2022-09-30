@@ -1,0 +1,48 @@
+
+BRAS.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_av
+  rotate: false
+  xy: 2, 2
+  size: 2420, 1480
+  orig: 2420, 1480
+  offset: 0, 0
+  index: -1
+braslet1REF_av
+  rotate: true
+  xy: 2424, 973
+  size: 257, 195
+  orig: 257, 195
+  offset: 0, 0
+  index: -1
+braslet1_av
+  rotate: false
+  xy: 2424, 776
+  size: 257, 195
+  orig: 257, 195
+  offset: 0, 0
+  index: -1
+braslet1_smoke_av
+  rotate: false
+  xy: 2424, 1232
+  size: 222, 250
+  orig: 222, 250
+  offset: 0, 0
+  index: -1
+braslet2_av
+  rotate: false
+  xy: 2648, 1366
+  size: 230, 45
+  orig: 230, 45
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 2648, 1413
+  size: 77, 69
+  orig: 100, 100
+  offset: 11, 13
+  index: -1

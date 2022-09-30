@@ -1,0 +1,118 @@
+
+MAN.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FRAME_WILDNEW_av
+  rotate: false
+  xy: 2, 719
+  size: 290, 300
+  orig: 290, 300
+  offset: 0, 0
+  index: -1
+armour_right_M_av
+  rotate: true
+  xy: 191, 602
+  size: 115, 96
+  orig: 115, 96
+  offset: 0, 0
+  index: -1
+body_M_av
+  rotate: true
+  xy: 2, 441
+  size: 276, 115
+  orig: 276, 115
+  offset: 0, 0
+  index: -1
+eye1_M_av
+  rotate: false
+  xy: 104, 8
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+eye1_close_M_av
+  rotate: false
+  xy: 70, 4
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+eye_close2_M_av
+  rotate: false
+  xy: 32, 3
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+face_M_BG_av
+  rotate: false
+  xy: 2, 173
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+face_M_av
+  rotate: true
+  xy: 136, 38
+  size: 133, 195
+  orig: 133, 195
+  offset: 0, 0
+  index: -1
+frame_part1_av
+  rotate: true
+  xy: 191, 561
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+frame_part2_av
+  rotate: true
+  xy: 119, 451
+  size: 266, 10
+  orig: 266, 10
+  offset: 0, 0
+  index: -1
+krownREF_M_av
+  rotate: true
+  xy: 2, 22
+  size: 149, 65
+  orig: 149, 65
+  offset: 0, 0
+  index: -1
+krown_M_av
+  rotate: true
+  xy: 69, 22
+  size: 149, 65
+  orig: 149, 65
+  offset: 0, 0
+  index: -1
+patch_eye_M_av
+  rotate: false
+  xy: 2, 2
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+star1
+  rotate: true
+  xy: 131, 446
+  size: 77, 69
+  orig: 100, 100
+  offset: 11, 13
+  index: -1
+sword_frameSCATT_av
+  rotate: false
+  xy: 202, 459
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+wildNEW_av
+  rotate: true
+  xy: 131, 525
+  size: 192, 58
+  orig: 192, 58
+  offset: 0, 0
+  index: -1

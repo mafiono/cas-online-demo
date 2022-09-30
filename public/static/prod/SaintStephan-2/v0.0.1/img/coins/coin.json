@@ -1,0 +1,108 @@
+{"frames": {
+
+"1.png":
+{
+	"frame": {"x":67,"y":1,"w":64,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":64,"h":60},
+	"sourceSize": {"w":64,"h":64}
+},
+"2.png":
+{
+	"frame": {"x":1,"y":64,"w":63,"h":62},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":62},
+	"sourceSize": {"w":64,"h":64}
+},
+"3.png":
+{
+	"frame": {"x":198,"y":1,"w":59,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":59,"h":63},
+	"sourceSize": {"w":64,"h":64}
+},
+"4.png":
+{
+	"frame": {"x":128,"y":63,"w":53,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":53,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"5.png":
+{
+	"frame": {"x":234,"y":62,"w":41,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":41,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"6.png":
+{
+	"frame": {"x":263,"y":32,"w":28,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":1,"w":28,"h":63},
+	"sourceSize": {"w":64,"h":64}
+},
+"7.png":
+{
+	"frame": {"x":263,"y":1,"w":29,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":1,"w":29,"h":63},
+	"sourceSize": {"w":64,"h":64}
+},
+"8.png":
+{
+	"frame": {"x":277,"y":62,"w":38,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":38,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"9.png":
+{
+	"frame": {"x":183,"y":62,"w":49,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":49,"h":64},
+	"sourceSize": {"w":64,"h":64}
+},
+"10.png":
+{
+	"frame": {"x":133,"y":1,"w":59,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":59,"h":63},
+	"sourceSize": {"w":64,"h":64}
+},
+"11.png":
+{
+	"frame": {"x":65,"y":64,"w":63,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":63,"h":61},
+	"sourceSize": {"w":64,"h":64}
+},
+"12.png":
+{
+	"frame": {"x":1,"y":1,"w":64,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":61},
+	"sourceSize": {"w":64,"h":64}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "coin.png",
+	"format": "RGBA8888",
+	"size": {"w":327,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3bcf7d0de8d7b517cd5ad9d2130a1925:459565f5d9513671014d5a1fd3dc8283:37dcde439de7f7292f96409a4c62c08e$"
+}
+}

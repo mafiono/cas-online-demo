@@ -1,0 +1,146 @@
+
+MARGO.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_MA_av
+  rotate: true
+  xy: 2115, 275
+  size: 102, 94
+  orig: 104, 96
+  offset: 1, 1
+  index: -1
+body_MA_av
+  rotate: false
+  xy: 1183, 157
+  size: 263, 350
+  orig: 263, 350
+  offset: 0, 0
+  index: -1
+dress_MA_av
+  rotate: true
+  xy: 667, 106
+  size: 401, 207
+  orig: 401, 207
+  offset: 0, 0
+  index: -1
+eye_close_MA_av
+  rotate: false
+  xy: 2, 14
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+face_MA_av
+  rotate: false
+  xy: 1106, 7
+  size: 110, 143
+  orig: 110, 143
+  offset: 0, 0
+  index: -1
+gate_MA_av
+  rotate: true
+  xy: 2, 48
+  size: 459, 663
+  orig: 471, 663
+  offset: 0, 0
+  index: -1
+h10_MA_av
+  rotate: true
+  xy: 882, 6
+  size: 144, 222
+  orig: 146, 224
+  offset: 1, 1
+  index: -1
+h1_MA_av
+  rotate: true
+  xy: 2024, 270
+  size: 107, 89
+  orig: 109, 91
+  offset: 1, 1
+  index: -1
+h2_MA_av
+  rotate: true
+  xy: 1876, 25
+  size: 239, 81
+  orig: 241, 83
+  offset: 1, 1
+  index: -1
+h3_MA_av
+  rotate: false
+  xy: 1448, 202
+  size: 249, 305
+  orig: 249, 305
+  offset: 0, 0
+  index: -1
+h4_MA_av
+  rotate: true
+  xy: 1218, 25
+  size: 130, 285
+  orig: 130, 285
+  offset: 0, 0
+  index: -1
+h5_MA_av
+  rotate: false
+  xy: 2024, 379
+  size: 101, 128
+  orig: 103, 130
+  offset: 1, 1
+  index: -1
+h6_MA_av
+  rotate: true
+  xy: 1792, 266
+  size: 241, 230
+  orig: 241, 230
+  offset: 0, 0
+  index: -1
+h7_MA_av
+  rotate: true
+  xy: 667, 2
+  size: 102, 213
+  orig: 104, 215
+  offset: 1, 1
+  index: -1
+h8_MA_av
+  rotate: true
+  xy: 1665, 32
+  size: 168, 209
+  orig: 170, 211
+  offset: 1, 1
+  index: -1
+h9_MA_av
+  rotate: true
+  xy: 1959, 52
+  size: 212, 202
+  orig: 214, 204
+  offset: 1, 1
+  index: -1
+ha3_MA_av
+  rotate: false
+  xy: 1505, 28
+  size: 158, 172
+  orig: 160, 174
+  offset: 1, 1
+  index: -1
+magic_MA_av
+  rotate: true
+  xy: 876, 152
+  size: 355, 305
+  orig: 355, 322
+  offset: 0, 0
+  index: -1
+shine_head_MA_av
+  rotate: true
+  xy: 1792, 213
+  size: 51, 48
+  orig: 56, 52
+  offset: 1, 0
+  index: -1
+wild_text_MA_av
+  rotate: true
+  xy: 1699, 234
+  size: 273, 91
+  orig: 273, 91
+  offset: 0, 0
+  index: -1

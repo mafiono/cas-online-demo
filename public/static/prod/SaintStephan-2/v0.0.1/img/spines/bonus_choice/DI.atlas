@@ -1,0 +1,118 @@
+
+DI.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_MA_av
+  rotate: false
+  xy: 667, 70
+  size: 388, 437
+  orig: 388, 437
+  offset: 0, 0
+  index: -1
+eye_close_MA_av
+  rotate: false
+  xy: 164, 27
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+eye_owl_MA_av
+  rotate: true
+  xy: 2, 9
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+face_MA_av
+  rotate: false
+  xy: 1361, 62
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+gate_D_av
+  rotate: true
+  xy: 2, 54
+  size: 453, 663
+  orig: 478, 663
+  offset: 0, 0
+  index: -1
+ha1_MA_av
+  rotate: true
+  xy: 23, 19
+  size: 33, 139
+  orig: 35, 141
+  offset: 1, 1
+  index: -1
+ha2_MA_av
+  rotate: false
+  xy: 1057, 5
+  size: 223, 184
+  orig: 223, 184
+  offset: 0, 0
+  index: -1
+ha3_MA_av
+  rotate: false
+  xy: 776, 2
+  size: 79, 66
+  orig: 81, 68
+  offset: 1, 1
+  index: -1
+hair1_MA_av
+  rotate: false
+  xy: 1248, 204
+  size: 226, 303
+  orig: 226, 303
+  offset: 0, 0
+  index: -1
+hair2_MA_av
+  rotate: false
+  xy: 1057, 191
+  size: 189, 316
+  orig: 218, 330
+  offset: 0, 0
+  index: -1
+head_owl_MA_av
+  rotate: false
+  xy: 857, 3
+  size: 70, 65
+  orig: 72, 67
+  offset: 1, 1
+  index: -1
+owl_body_MA_av
+  rotate: false
+  xy: 1479, 25
+  size: 137, 207
+  orig: 137, 207
+  offset: 0, 0
+  index: -1
+own_w1_MA_av
+  rotate: false
+  xy: 1569, 370
+  size: 92, 137
+  orig: 94, 139
+  offset: 1, 1
+  index: -1
+own_w2_right
+  rotate: false
+  xy: 1282, 48
+  size: 77, 154
+  orig: 77, 154
+  offset: 0, 0
+  index: -1
+patch_hair_MA_av
+  rotate: false
+  xy: 667, 2
+  size: 107, 66
+  orig: 109, 68
+  offset: 1, 1
+  index: -1
+wild_text_MA_av
+  rotate: true
+  xy: 1476, 234
+  size: 273, 91
+  orig: 273, 91
+  offset: 0, 0
+  index: -1

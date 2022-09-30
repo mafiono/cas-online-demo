@@ -1,0 +1,97 @@
+
+KING.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ass_K_av
+  rotate: true
+  xy: 1147, 224
+  size: 286, 110
+  orig: 288, 112
+  offset: 1, 1
+  index: -1
+bodyREF_K_av
+  rotate: false
+  xy: 667, 2
+  size: 130, 167
+  orig: 130, 167
+  offset: 0, 0
+  index: -1
+body_K_av
+  rotate: false
+  xy: 853, 179
+  size: 292, 331
+  orig: 294, 333
+  offset: 1, 1
+  index: -1
+eye_close_K_av
+  rotate: false
+  xy: 2, 28
+  size: 74, 18
+  orig: 74, 18
+  offset: 0, 0
+  index: -1
+face_K_av
+  rotate: false
+  xy: 1354, 67
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+gate_K_av
+  rotate: true
+  xy: 2, 48
+  size: 462, 663
+  orig: 478, 663
+  offset: 16, 0
+  index: -1
+l_hand_K_av
+  rotate: false
+  xy: 667, 171
+  size: 184, 339
+  orig: 186, 341
+  offset: 1, 1
+  index: -1
+r_hand2_K_av
+  rotate: false
+  xy: 1240, 3
+  size: 112, 219
+  orig: 114, 221
+  offset: 1, 1
+  index: -1
+r_hand3_K_av
+  rotate: true
+  xy: 1352, 319
+  size: 191, 130
+  orig: 193, 132
+  offset: 1, 1
+  index: -1
+r_handREF_K_av
+  rotate: false
+  xy: 799, 8
+  size: 189, 161
+  orig: 189, 161
+  offset: 0, 0
+  index: -1
+r_hand_K_av
+  rotate: true
+  xy: 990, 3
+  size: 174, 248
+  orig: 176, 250
+  offset: 1, 1
+  index: -1
+star1
+  rotate: true
+  xy: 1352, 240
+  size: 77, 69
+  orig: 100, 100
+  offset: 11, 13
+  index: -1
+wild_text_MA_av
+  rotate: true
+  xy: 1259, 237
+  size: 273, 91
+  orig: 273, 91
+  offset: 0, 0
+  index: -1

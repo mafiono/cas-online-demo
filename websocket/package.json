@@ -1,0 +1,14 @@
+{
+  "name": "webosocket-server-evolution",
+  "version": "1.2.1",
+  "description": "Nope",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.4.2"
+  }
+}

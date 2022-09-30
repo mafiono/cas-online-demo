@@ -1,0 +1,13 @@
+
+coat.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coat
+  rotate: false
+  xy: 2, 2
+  size: 192, 277
+  orig: 192, 277
+  offset: 0, 0
+  index: -1
