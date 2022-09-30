@@ -1,0 +1,9 @@
+{
+    "app_id": "online-casino-rlqnx",
+    "config_version": 20210101,
+    "name": "Online-Casino",
+    "location": "AU",
+    "provider_region": "aws-ap-southeast-2",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}
