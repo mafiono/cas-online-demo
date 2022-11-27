@@ -28,7 +28,7 @@ jobs:
       run: |
         mkdir -p database
         touch database/database.sqlite
-    - name: Execute  (Unit and Feature tests) via PHPUnit
+    - name: Execute 
       env:
         DB_CONNECTION: sqlite
         DB_DATABASE: database/database.sqlite
