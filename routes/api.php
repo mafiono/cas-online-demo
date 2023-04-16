@@ -14,11 +14,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-//Route::get('/game_tunnel/in/{provider_slug} ', [App\Http\Controllers\GameTunnelAPI::class, 'in'])->name('callbackIn');
-//Route::get('/game_tunnel/out/{provider_slug} ', [App\Http\Controllers\GameTunnelAPI::class, 'out'])->name('callbackOut');
+Route::get('/game_tunnel/in/{provider_slug} ', [App\Http\Controllers\GameTunnelAPI::class, 'in'])->name('callbackIn');
+Route::get('/game_tunnel/out/{provider_slug} ', [App\Http\Controllers\GameTunnelAPI::class, 'out'])->name('callbackOut');
 
 // Booongo Mixed
-//Route::any('/game_tunnel/mixed/booongo/{game_slug}/{device_type}/{token}/{mode}', [App\Http\Controllers\GameTunnelAPI::class, 'mixed'])->name('mixed');
+Route::any('/game_tunnel/mixed/booongo/{game_slug}/{device_type}/{token}/{mode}', [App\Http\Controllers\GameTunnelAPI::class, 'mixed'])->name('mixed');
 
 Route::any('/game_tunnel/bgaming/{game_slug}/{random_id}/{token}', [App\Http\Controllers\GameTunnelAPI::class, 'bgamingMixed'])->name('bgamingMixed');
 Route::any('/game_tunnel/bgaming/{game_slug}/{token}', [App\Http\Controllers\GameTunnelAPI::class, 'bgamingMixed'])->name('bgamingMixed');
