@@ -28,8 +28,7 @@ jobs:
       run: |
         mkdir -p database
         touch database/database.sqlite
-    - name: ()
-      env:
+    - env:
         DB_CONNECTION: sqlite
         DB_DATABASE: database/database.sqlite
       run: vendor/bin/phpunit
