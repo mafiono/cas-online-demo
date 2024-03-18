@@ -6,7 +6,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
-        "arcanedev/log-viewer": "~9.0",
+        "arcanedev/log-viewer": "~11.0",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^9.10",
         "laravel/sanctum": "^2.14.1",
